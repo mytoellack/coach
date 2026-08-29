@@ -1,0 +1,29 @@
+Requerimiento de Ingenieria del Software II
+
+1. Nombre Proyecto: 
+Coach Personal
+
+2. Nombre Aplicacion: 
+Coach Personal
+
+3. Proposito Solucion Software:
+
+5. Actores:
+
+6. Requerimiento:
+
+7. Problematica:
+
+8. Mision (al dia de hoy):
+
+9. Vision (a futuro):
+
+10. Objetivo Principal:
+
+11. Objetivos Especificos:
+
+12. Escenario Actual
+
+13. Escenario Futuro
+
+14. Proceso Enfoque IA
